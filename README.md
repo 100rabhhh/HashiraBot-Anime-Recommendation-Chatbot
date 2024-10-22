@@ -43,13 +43,11 @@
         Contributions are welcome! 🛠️ Feel free to fork this project, create a feature branch, and submit a pull request.<br>
         Let's make HashiraBot even better together! 💡
     </p>
-    <h2>📄 License</h2>
-    <p>
-        This project is licensed under the <strong>MIT License</strong> 📝. See the <code>LICENSE</code> file for more details.
+        This project is licensed under the <strong>MIT License</strong> 📝.
     </p>
     <h2>👤 Author</h2>
     <p>
-        Developed with ❤️ by <strong>Sourabh Jha</strong>! <br>
+        Developed with ❤️ by <a href="https://github.com/100rabhhh">Sourabh Jha</a> <br>
         For any queries or suggestions, feel free to reach out or contribute! 🌟
     </p>
     <h2>✨ Acknowledgments</h2>
@@ -60,7 +58,7 @@
     </ul>
     <footer>
         <p align="center">
-            Made with 🧡 by Sourabh Jha | Follow me for more projects!
+            Made with 🧡 by <a href="https://github.com/100rabhhh">Sourabh Jha</a> | Follow me for more projects!
         </p>
     </footer>
 </body>
